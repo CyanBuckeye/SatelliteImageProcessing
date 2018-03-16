@@ -10,6 +10,7 @@ Implement with two deep learning frameworks: Caffe and PyTorch
 Demo
 ---------------------------------------------------------------------
 ![given satellite image](https://raw.githubusercontent.com/cyanBuckeye/SatelliteImageProcessing/master/demo/demo1/test-img.jpg "given satellite image")
-Given satellite image
+__Given satellite image__
+
 ![output labelmap](https://raw.githubusercontent.com/cyanBuckeye/SatelliteImageProcessing/master/demo/demo1/predict-label.jpg "output labelmap")
-Output labelmap, in which: blue->buildings, cyan->low vegetation, blue->tree, white->road, yellow->car 
+__Output labelmap, in which: blue->buildings, cyan->low vegetation, blue->tree, white->road, yellow->car __
