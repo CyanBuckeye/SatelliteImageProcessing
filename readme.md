@@ -13,4 +13,4 @@ Demo
 __Given satellite image__
 
 ![output labelmap](https://raw.githubusercontent.com/cyanBuckeye/SatelliteImageProcessing/master/demo/demo1/predict-label.jpg "output labelmap")
-__Output labelmap, in which: blue->buildings, cyan->low vegetation, blue->tree, white->road, yellow->car__
+__Output labelmap, in which: blue->buildings, cyan->low vegetation, green->tree, white->road, yellow->car__
