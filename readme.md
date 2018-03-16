@@ -2,9 +2,9 @@ Deep neural network for satellite image segmentation task
 ====================================================================
 Overview
 --------------------------------------------------------------------
-This is my work during research assistant position at Geospatial Laboratory of Ohio State University. Construct a deep neural network for satellite image segmentation task:
+This is my work during research assistant position at Geospatial Laboratory of Ohio State University. Construct a deep neural network for satellite image segmentation task:  
 1.input: satellite image and DSM height map
-2.output: predicted category for each pixel
+2.output: predicted category for each pixel  
 Implement with two deep learning frameworks: Caffe and PyTorch
 
 Demo
