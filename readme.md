@@ -1,4 +1,4 @@
-Deep neural network for pixel-wise classification of satellite image
+Deep neural network for satellite image segmentation task
 ====================================================================
 Overview
 --------------------------------------------------------------------
